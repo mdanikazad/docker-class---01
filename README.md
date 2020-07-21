@@ -1,4 +1,4 @@
-# docker-class---01
+# docker-day---01
 
 Our teacher covered following things
 
